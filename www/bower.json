@@ -1,0 +1,21 @@
+{
+  "name": "copter-experiments",
+  "version": "0.0.1",
+  "homepage": "https://github.com/kreess/copter-experiments",
+  "main": "face.js",
+  "authors": [
+    "Christof Marti"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "camera.js": "https://github.com/idevelop/camera.js.git",
+    "jquery": "~2.0.3"
+  }
+}
